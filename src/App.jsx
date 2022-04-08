@@ -25,7 +25,7 @@ function Logo(){
 }
 
 function Links(props){
-return <h4 className='mylink'>{props.link} </h4>
+return <a className='mylink'>{props.link} </a>
 }
 
 function Button(){
