@@ -1,0 +1,35 @@
+.App{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+.navbar{
+  margin-top: 20px;
+  width: 95%;
+  height: 70px;
+  background: rgb(30, 30, 30);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.logo{
+  
+  width: 50px;
+  height: 50px;
+}
+#linkdiv{
+  display: flex;
+  
+}
+.mylink{
+  color: rgb(184, 175, 160);
+  margin: 0 20px 0 20px;
+}
+.btn{
+  border-radius: 3px;
+  background-color: aqua;
+  border: 0px;
+}
